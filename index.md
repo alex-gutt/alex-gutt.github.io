@@ -64,13 +64,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>__</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>19XX</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>__</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>__</dd>
 </dl>
 
 
