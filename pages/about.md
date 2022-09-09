@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this site
+title: About
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [About]
