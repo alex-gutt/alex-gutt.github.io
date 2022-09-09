@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Alex Gutt
-description: A bio of sorts | Jacksonville, Flordia -- Ehime, Japan
+description: A bio of sorts
 
 baseurl: ./ #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
