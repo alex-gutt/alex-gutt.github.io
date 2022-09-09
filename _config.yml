@@ -4,7 +4,7 @@ title: Alex Gutt
 description: A bio of sorts
 
 baseurl: ./ #name of GitHub repository
-url: "alex-gutt.github.io" #custom url to be used instead of GitHub repository
+# url: " " #custom url to be used instead of GitHub repository
 email: #
 
 
