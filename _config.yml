@@ -3,7 +3,7 @@
 title: Alex Gutt
 description: A bio of sorts | Jacksonville, Flordia -- Ehime, Japan
 
-baseurl: ./ #name of GitHub repository
+baseurl: /alex-gutt.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
