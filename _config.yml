@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Alex Gutt
+description: A bio of sorts | Jacksonville, FLordia -- Ehime, Japan
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -17,12 +17,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+# facebook: "#"
+# twitter: "#"
+# linkedin: "#"
+# github: "#"
+# researchgate: "#"
+# orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
