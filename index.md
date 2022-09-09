@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![test](./assets/images/test.jpg)
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
